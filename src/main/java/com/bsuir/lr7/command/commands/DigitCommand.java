@@ -1,4 +1,6 @@
-package com.bsuir.lr7.command;
+package com.bsuir.lr7.command.commands;
+
+import com.bsuir.lr7.command.Calculator;
 
 public class DigitCommand implements Command {
   private final Calculator calculator;

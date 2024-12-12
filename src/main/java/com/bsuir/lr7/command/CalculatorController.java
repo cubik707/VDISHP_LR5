@@ -1,5 +1,6 @@
 package com.bsuir.lr7.command;
 
+import com.bsuir.lr7.command.commands.*;
 import javafx.fxml.FXML;
 import javafx.scene.control.TextField;
 import javafx.scene.control.Button;
